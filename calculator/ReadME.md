@@ -1,7 +1,3 @@
-Here is the updated **GitHub report / README** with an **image placeholder at the top**.
-Just replace the image link with your real screenshot (or ask me and I’ll create one for you).
-
----
 
 # 📸 Scientific Calculator (Tkinter)
 
@@ -70,4 +66,5 @@ python calculator.py
 🔹 Export results to a file
 
 ---
+
 
