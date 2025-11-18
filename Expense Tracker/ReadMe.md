@@ -7,7 +7,8 @@ This app allows you to enter daily expenses, categorize them, store them in a CS
 
 ## 🖼️ Screenshot
 
-<img width="602" height="532" alt="image" src="https://github.com/user-attachments/assets/ce6f8188-0258-40c0-9d92-c0127b185ccf" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/ef6800bd-1124-4054-be68-cc8c04eb8a87" />
+
 
 ---
 
@@ -74,5 +75,6 @@ Feel free to **fork** this project and improve it.
 If you like this project, don't forget to ⭐ **star the repo**!
 
 ---
+
 
 
