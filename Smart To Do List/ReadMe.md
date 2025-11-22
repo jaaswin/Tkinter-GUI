@@ -1,11 +1,24 @@
-Here is a **simple, clear, and attractive report** for your **Smart To-Do List (Tkinter Python Project)**.
-You can copy–paste it directly into your **college record / GitHub README / project file**.
+
+# SMART TO-DO LIST – PROJECT REPORT
 
 ---
 
-# **SMART TO-DO LIST – PROJECT REPORT**
+## Output Screenshot (Description)
 
-## ** Introduction**
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/8e080abc-a2f6-4c60-9dc0-26eda0751fec" />
+
+
+A clean window appears with:
+
+* Task input box
+* Add button
+* List of tasks
+* Buttons for Edit, Delete, Complete
+* Simple light-grey background
+
+---
+
+## Introduction
 
 The Smart To-Do List is a simple productivity application developed using **Python Tkinter**.
 It allows users to add, edit, delete, and manage daily tasks in an organized way.
@@ -13,7 +26,7 @@ This project demonstrates basic GUI development, event handling, and file handli
 
 ---
 
-## ** Objective**
+##  Objective
 
 * To create a clean and user-friendly GUI application
 * To help users manage tasks efficiently
@@ -81,19 +94,6 @@ def save_tasks():
 ```
 
 
----
-
-## ** Output Screenshot (Description)**
-
-A clean window appears with:
-
-* Task input box
-* Add button
-* List of tasks
-* Buttons for Edit, Delete, Complete
-* Simple light-grey background
-
-(You can take a real screenshot after running the code.)
 
 ---
 
@@ -104,3 +104,4 @@ It demonstrates core concepts of GUI design, user interaction, and data storage.
 This project can be expanded with features like notifications, dark mode, or calendar integration.
 
 ---
+
